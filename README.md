@@ -1,3 +1,3 @@
 # Expo Template
 
-A simple template for building Expo apps with the "managed workflow" complete with linting, prettier and proper directory structure.
+A simple template for building Expo apps with typescript in "managed workflow" complete with eslint, prettier and the standard folder structure.
